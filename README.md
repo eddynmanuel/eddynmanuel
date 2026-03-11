@@ -12,7 +12,7 @@ Frontend Developer | Web Applications | UI Systems
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=eddymanuel&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=eddynmanuel&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -20,6 +20,15 @@ Frontend Developer | Web Applications | UI Systems
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;UI+Systems+and+Dashboards;Building+Modern+Web+Applications"/>
 </p>
+
+---
+
+# 🧠 Currently Building
+
+- 🚀 SaaS Analytics Dashboard
+- 🤖 CVMatch – AI system that analyzes CVs and finds job opportunities
+- 🏠 Smart Home IoT Dashboard
+- 🌐 ServiDom service platform
 
 ---
 
@@ -31,57 +40,24 @@ Frontend developer focused on building scalable web applications and clean user 
 
 Interested in developing modern platforms such as:
 
-- Analytics dashboards
-- Web applications
-- Data visualization interfaces
-- Smart systems and digital platforms
+- Analytics dashboards  
+- Web applications  
+- Data visualization interfaces  
+- Smart systems and digital platforms  
 
 Currently working on personal projects including:
 
-- SaaS analytics platforms
-- CV job-matching systems
-- Smart home dashboards
-- Service platforms
+- SaaS analytics platforms  
+- CV job-matching systems  
+- Smart home dashboards  
+- Service platforms  
 
 ---
 
 # ⚡ Technology Stack
 
-### Frontend
-
 <p align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</p>
-
----
-
-### Backend / Otros
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-</p>
-
----
-
-### Herramientas
-
-<p align="center">
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,python,php,mysql,git,github,vscode"/>
 </p>
 
 ---
@@ -105,7 +81,7 @@ React • TypeScript • Tailwind
 <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/eddymanuel/saas-analytics-dashboard">
+<a href="https://github.com/eddynmanuel/saas-analytics-dashboard">
 <img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -127,7 +103,7 @@ Python • Data Processing • Text Analysis
 <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/eddymanuel/CVMatch">
+<a href="https://github.com/eddynmanuel/CVMatch">
 <img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -151,7 +127,7 @@ React • Dashboard UI • Data Visualization
 <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/eddynmanuel/proyecto-iot-Frontend.git">
+<a href="https://github.com/eddynmanuel/proyecto-iot-Frontend">
 <img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -173,7 +149,7 @@ HTML • CSS • JavaScript
 <img src="https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/eddynmanuel/ServiDom.git">
+<a href="https://github.com/eddynmanuel/ServiDom">
 <img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
@@ -184,24 +160,50 @@ HTML • CSS • JavaScript
 
 ---
 
-# 📊 GitHub Statistics
+# 📦 Featured Repositories
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eddymanuel&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddynmanuel&repo=CVMatch&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddymanuel&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddynmanuel&repo=ServiDom&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddynmanuel&repo=proyecto-iot-Frontend&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=eddynmanuel&repo=saas-analytics-dashboard&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=eddymanuel&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-stats.vercel.app/api?username=eddynmanuel&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddynmanuel&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eddynmanuel&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌌 3D Contribution Graph
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eddynmanuel&theme=tokyonight"/>
 </p>
 
 ---
@@ -209,9 +211,7 @@ HTML • CSS • JavaScript
 # 📈 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eddymanuel&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eddynmanuel&theme=tokyo-night"/>
 </p>
 
 ---
@@ -219,9 +219,7 @@ HTML • CSS • JavaScript
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/eddymanuel/eddymanuel/output/snake.svg"/>
-
+<img src="https://raw.githubusercontent.com/eddynmanuel/eddynmanuel/output/snake.svg"/>
 </p>
 
 ---
@@ -231,15 +229,15 @@ HTML • CSS • JavaScript
 <p align="center">
 
 <a href="https://github.com/eddynmanuel">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Portfolio-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:eddyn.cajavilca@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:eddynn.cajavilca@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://portafolio-dh1z.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=google-chrome"/>
 </a>
 
 </p>
@@ -247,9 +245,7 @@ HTML • CSS • JavaScript
 ---
 
 <p align="center">
-
 💡 Always learning and building new things.
-
 </p>
 
 <p align="center">
