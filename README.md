@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0047FF&height=200&section=header&text=Manuel%20Cajavilca&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">
 HI 👋, I'm Manuel Cajavilca
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -7,10 +11,14 @@ HI 👋, I'm Manuel Cajavilca
 Frontend Developer | Web Applications | UI Systems
 </h3>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=eddymanuel&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;UI+Systems+and+Dashboards;Always+learning+new+technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+TypeScript+%7C+JavaScript;UI+Systems+and+Dashboards;Building+Modern+Web+Applications"/>
 </p>
 
 ---
@@ -188,11 +196,31 @@ HTML • CSS • JavaScript
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=eddymanuel&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
 # 📈 GitHub Activity
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eddymanuel&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/eddymanuel/eddymanuel/output/snake.svg"/>
 
 </p>
 
@@ -222,4 +250,8 @@ HTML • CSS • JavaScript
 
 💡 Always learning and building new things.
 
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,100:00F7FF&height=120&section=footer"/>
 </p>
